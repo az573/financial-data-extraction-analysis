@@ -1,0 +1,15 @@
+Tax Year Frequency:
+tax_year
+2022    35
+2023     5
+2021     1
+
+Revenue Statistics:
+count    4.100000e+01
+mean     1.386172e+09
+std      4.097740e+09
+min      7.198249e+06
+25%      1.707553e+08
+50%      3.709346e+08
+75%      1.134280e+09
+max      2.641406e+10
