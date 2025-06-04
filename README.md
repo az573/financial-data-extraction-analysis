@@ -1,4 +1,5 @@
-A small test I had to complete for an audition for a job I applied
+A small test I had to complete for an audition for a job I applied.
+
 The instructions were as followed:
 
 Create Python code that extracts the financial data and puts it into a csv file.  Note there are MANY fields of information.  You may choose to select some variables or extract it all; just explain what you are doing and why.
